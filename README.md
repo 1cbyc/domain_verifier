@@ -74,7 +74,7 @@ this guide provides instructions on how to set up and use the CLI Domain Verifie
      venv\Scripts\activate
      ```
 
-## Step 2: Navigate to Your Project Directory
+## then go to the proe
 
 Change to the directory where your `domain_verifier` project is located:
 
