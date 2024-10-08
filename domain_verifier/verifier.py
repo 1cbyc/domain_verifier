@@ -1,5 +1,3 @@
-# domain_verifier/verifier.py
-
 import requests
 import validators
 
