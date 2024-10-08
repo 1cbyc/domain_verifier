@@ -9,9 +9,9 @@ python -m domain_verifier.cli nsisong.com nsisonglabs.com ...
 
 ## for running tests
 
-To run the tests, use:
+i simply did:
 
-bash
+```bash
 
 python -m unittest discover
 
