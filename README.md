@@ -30,7 +30,7 @@ domain-verifier nsisong.com invalid_domain
 
 # this is how to use my tool
 
-this guide provides instructions on how to set up and use the CLI Domain Verifier you built. you need to have these installed:
+you need to have these installed:
 - Python 3.6 or higher
 - pip
 
