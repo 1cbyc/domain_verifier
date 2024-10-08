@@ -103,8 +103,6 @@ plaintext
 
 Step 4: Run Tests (Optional)
 
-If you want to ensure everything is functioning as expected, you can run your tests. Make sure you're still in your project directory and run:
-
 ```bash
 python -m unittest discover
 ```
