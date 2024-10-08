@@ -93,13 +93,13 @@ Example Output:
 
 When you run the command, you should see output like this:
 
-```bash
+```plaintext
     Checking example.com...
     example.com is a valid domain.
     example.com is reachable.
     Checking invalid_domain...
     invalid_domain is not a valid domain.
-    ```
+```
 
 Step 4: Run Tests (Optional)
 
