@@ -74,9 +74,8 @@ this guide provides instructions on how to set up and use the CLI Domain Verifie
      venv\Scripts\activate
      ```
 
-## then go to the proe
-
-Change to the directory where your `domain_verifier` project is located:
+## then go to the project dir
 
 ```bash
 cd /path/to/your/domain_verifier
+```
