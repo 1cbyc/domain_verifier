@@ -11,8 +11,8 @@ class TestDomainVerifier(unittest.TestCase):
         verifier = DomainVerifier('invalid_domain')
         self.assertFalse(verifier.is_valid())
 
-    # You can add tests for reachability here if desired
-    # Note: Reachability tests may require internet access and may be unreliable in tests
+    # adding tests for reachability here if desired
+    # the reachability tests may require internet access and may be unreliable in tests
 
 if __name__ == '__main__':
     unittest.main()
