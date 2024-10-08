@@ -1,5 +1,3 @@
-# domain_verifier/cli.py
-
 import argparse
 from .verifier import DomainVerifier
 
