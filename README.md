@@ -107,7 +107,7 @@ Step 4: Run Tests (Optional)
 python -m unittest discover
 ```
 
-Step 5: Using the Console Script (If Defined)
+sing the Console Script (If Defined)
 
 If you set up the console script in setup.py, you can run the command without explicitly invoking Python. After installing the package with pip install -e ., you can use:
 
