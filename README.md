@@ -88,7 +88,7 @@ Using the CLI Command
 python -m domain_verifier.cli example.com invalid_domain
 ```
 
-! Replace example.com and invalid_domain with the domains you want to verify.
+!Replace example.com and invalid_domain with the domains you want to verify.
 
 Example Output:
 
