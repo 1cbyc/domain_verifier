@@ -59,7 +59,7 @@ domain-verifier nsisong.com invalid_domain
 
 # this is how to use my tool
 
-This guide provides instructions on how to set up and use the CLI Domain Verifier you built.
+this guide provides instructions on how to set up and use the CLI Domain Verifier you built.
 
 ## Prerequisites
 
