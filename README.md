@@ -46,3 +46,6 @@ setup(
 
 ### then, once it is all set, i have to run the project:
 
+```bash
+pip install -e .
+```
