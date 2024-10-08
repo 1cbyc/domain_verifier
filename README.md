@@ -12,10 +12,10 @@ python -m domain_verifier.cli nsisong.com nsisonglabs.com ...
 i simply did:
 
 ```bash
-
 python -m unittest discover
+```
 
-arduino
+```arduino
 
 
 ### Step 7: Create `setup.py`
