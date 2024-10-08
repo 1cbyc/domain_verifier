@@ -109,7 +109,7 @@ python -m unittest discover
 
 ### you can as well use the Console Script
 
-If you set up the console script in setup.py, you can run the command without explicitly invoking Python. After installing the package with pip install -e ., you can use:
+If you set up the console script in `setup.py`, you can run the command without explicitly invoking Python. After installing the package with `pip install -e .`, you can use:
 
 bash
 
