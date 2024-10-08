@@ -7,7 +7,7 @@ python -m domain_verifier.cli nsisong.com nsisonglabs.com ...
 ```
 
 
-## for tRunning Tests
+## for running tests
 
 To run the tests, use:
 
