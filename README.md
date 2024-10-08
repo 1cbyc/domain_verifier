@@ -77,7 +77,7 @@ this guide provides instructions on how to set up and use the CLI Domain Verifie
 ## then go to the project dir
 
 ```bash
-cd /path/to/your/domain_verifier
+cd domain_verifier
 ```
 
 
