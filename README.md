@@ -93,7 +93,7 @@ Example Output:
 
 When you run the command, you should see output like this:
 
-plaintext
+```plaintext
 
     Checking example.com...
     example.com is a valid domain.
@@ -115,4 +115,4 @@ If you set up the console script in `setup.py`, you can run the command without 
 domain-verifier example.com invalid_domain
 ```
 
-This will provide the same functionality as using python -m domain_verifier.cli.
+This will provide the same functionality as using `python -m domain_verifier.cli.`
