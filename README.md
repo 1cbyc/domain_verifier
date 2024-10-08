@@ -59,3 +59,33 @@ domain-verifier nsisong.com invalid_domain
 
 # this is how to use my tool
 
+This guide provides instructions on how to set up and use the CLI Domain Verifier you built.
+
+## Prerequisites
+
+Ensure you have the following installed:
+- Python 3.6 or higher
+- pip
+
+## Step 1: Set Up Your Environment
+
+1. **Activate Your Virtual Environment** (if you used one):
+
+   If you created a virtual environment for your project, activate it first.
+
+   - **On macOS/Linux**:
+     ```bash
+     source venv/bin/activate
+     ```
+
+   - **On Windows**:
+     ```bash
+     venv\Scripts\activate
+     ```
+
+## Step 2: Navigate to Your Project Directory
+
+Change to the directory where your `domain_verifier` project is located:
+
+```bash
+cd /path/to/your/domain_verifier
