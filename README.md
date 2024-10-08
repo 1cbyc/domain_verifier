@@ -82,7 +82,6 @@ cd domain_verifier
 
 
 you can run the domain verifier from the command line using the command you defined in the cli.py file. if you installed it in editable mode, you should be able to run it directly using the command you set up.
-Using the CLI Command
 
 ```bash
 python -m domain_verifier.cli example.com invalid_domain
