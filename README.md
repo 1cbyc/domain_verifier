@@ -63,12 +63,7 @@ this guide provides instructions on how to set up and use the CLI Domain Verifie
 - Python 3.6 or higher
 - pip
 
-## Step 1: Set Up Your Environment
-
-1. **Activate Your Virtual Environment** (if you used one):
-
-   If you created a virtual environment for your project, activate it first.
-
+## then setup your env
    - **On macOS/Linux**:
      ```bash
      source venv/bin/activate
