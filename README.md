@@ -51,4 +51,5 @@ first, install the package:
 pip install -e .
 ```
 
-then, 
+then, verify the domain:
+```
