@@ -54,5 +54,8 @@ pip install -e .
 then, verify the domain:
 ```bash
 domain-verifier nsisong.com invalid_domain
-```'
+```
+
+
+# this is how to use my tool
 
