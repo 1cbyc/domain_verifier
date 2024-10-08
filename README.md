@@ -44,4 +44,5 @@ setup(
 ```
 
 
-### then, once it is all set
+### then, once it is all set, i have to run the project:
+
