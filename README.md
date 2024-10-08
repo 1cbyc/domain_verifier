@@ -93,7 +93,7 @@ Example Output:
 
 When you run the command, you should see output like this:
 
-```plaintext
+```bash
     Checking example.com...
     example.com is a valid domain.
     example.com is reachable.
