@@ -101,7 +101,7 @@ When you run the command, you should see output like this:
     invalid_domain is not a valid domain.
 ```
 
-Step 4: Run Tests (Optional)
+### you can run tests too:
 
 ```bash
 python -m unittest discover
