@@ -13,5 +13,5 @@ setup(
             'domain-verifier=domain_verifier.cli:main',
         ],
     },
-    python_requires='>=3.6',  # Make sure to specify the required Python version
+    python_requires='>=3.6',  # specifying the required Python version
 )
